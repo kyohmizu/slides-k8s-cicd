@@ -58,11 +58,8 @@ class: header-margin
 <center><img src="landscape-cicd.png" width=60%></center>
 
 ---
+class: header-margin
 ### CI/CD on Kubernetes
-
-.zoom1[
-<br/>
-]
 
 .left-half[
     <center><img src="https://concourse-ci.org/images/trademarks/concourse-black.png" width=100%></center>
@@ -231,7 +228,7 @@ spec:
 ### CI/CD Architecture
 
 .zoom2[
-In my self-study project
+In my self-study project:
 ]
 
 <center><img src="arch.png" width=85%></center>
